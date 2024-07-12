@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>3829792.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>avatar.png</file>
+        <file>book-open-flat.png</file>
+        <file>telegram-plus.png</file>
+        <file>OIP (1).jfif</file>
+        <file>Male user remove.png</file>
+        <file>delete-181.png</file>
+    </qresource>
+</RCC>
